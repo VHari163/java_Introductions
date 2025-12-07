@@ -29,4 +29,5 @@ public class Inheritance_multiple_inheritance_1 {
         b1.soound();
         c1.soound();
         d1.soound();
+    }
 }
